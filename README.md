@@ -1,4 +1,9 @@
-# index.html
-unidad uno unad;
-mi historia como programador de paginas web empieza aquí 
-jhgfds
+<!DOCTYPE html>
+<html>
+<head>
+	<title>primer html</title>
+</head>
+<body>
+desarrollo de la unidad uno primeros pasos en desarrollo web
+</body>
+</html>
